@@ -1,3 +1,4 @@
+This is a project I worked on with a team of three, me and two others. We worked as a group on the HTML and CSS. In addition to this, my role included work with JavaScript, AJAX, JSON, and PHP. Our team did a good job working with each other to ensure learning from all areas. 
 Grab Grub allows the user to search for restaurants by zip code to see which ones people are tweeting about. It also allows the user to see the rating based on reviews customers posted on yelp. We average reviews from the current month across websites to give the user up-to-date trending information on restaurants in the user's area.
  
 
